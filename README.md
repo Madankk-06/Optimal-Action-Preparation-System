@@ -32,35 +32,11 @@ This repository currently contains:
 
 ---
 
-# 🖼️ Project Screenshots
+# 🖼️ Project Screenshot
 
 ## Landing Page
 
-![Landing Page](images/landing-page.jpeg)
-
----
-
-## Dashboard
-
-![Dashboard](images/dashboard.png)
-
----
-
-## Task Preparation Interface
-
-![Task Preparation](images/task-preparation.png)
-
----
-
-## Goal Management Screen
-
-![Goal Management](images/goal-management.png)
-
----
-
-## User Workflow
-
-![Workflow](images/workflow.png)
+![Landing Page](landing-page.jpeg)
 
 ---
 
